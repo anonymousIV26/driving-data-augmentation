@@ -8,3 +8,4 @@ The reliable operation of Advanced Driver-Assistance Systems (ADAS) critically d
 
 ## Results
 The `video_results` directory provides generated videos of our method against baselines on BDD100K driving dataset, with Grounded Sam 2 object detections aggregated in three classes 'vehicle', 'VRU' and 'traffic sign'.
+
